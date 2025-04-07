@@ -1,4 +1,4 @@
-package regex_junit.regex.basic_regex_problems;
+package java_collections_streams.regex_junit.regex.basic_regex_problems;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
